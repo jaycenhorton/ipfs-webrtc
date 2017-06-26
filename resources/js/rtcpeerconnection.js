@@ -1,11 +1,9 @@
 /*
- ps-webrtc-rtcpeerconnection.js
- Author: Lisa Larson-Kelley (http://learnfromlisa.com)
- WebRTC Fundamentals -- Pluralsight.com
- Version 1.0.0
+ rtcpeerconnection.js
+
  --
- Remote video is just a dup of the local video reused in the remote stream, 
- since I there is no signalling implemented in this simple WebRTC example.
+ Remote video is just a dup of the local video reused in the remote stream
+
 */
 
 var myPeerConnection;
