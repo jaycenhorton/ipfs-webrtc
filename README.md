@@ -1,7 +1,7 @@
 # ipfs-webrtc
 
 A simple webrtc client for ipfs
-
+## Note: this repo is just temporary and does not do much outside of a typical http server/signaling webrtc implementation
 ## v 0.0.1 : simple localhost webcam viewing
 
 ### Chrome setup
